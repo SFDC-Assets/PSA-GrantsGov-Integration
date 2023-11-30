@@ -2,7 +2,7 @@
 
 # Grants.gov Integration
 
-Interact with the Grants.gov Applicant APIs using this MuleSoft Connector.
+Interact with Grants.gov Applicant APIs using this MuleSoft Connector.
 
 Accelerator Listing: [insert url to the public listing on the Accelerator site](https://pubsec-accelerators.my.site.com/accelerators/) (tbd once published)
 
