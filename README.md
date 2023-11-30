@@ -2,7 +2,7 @@
 
 # Grants.gov Integration
 
-[Required. Show overview of the Accelerator. This should match the approved content used on the Accelerator listing.]
+Interact with Grants.gov APIs with this MuleSoft Connector.
 
 Accelerator Listing: [insert url to the public listing on the Accelerator site](https://pubsec-accelerators.my.site.com/accelerators/) (tbd once published)
 
