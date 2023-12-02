@@ -2,9 +2,9 @@
 
 # Grants.gov Integration
 
-Interact with Grants.gov Applicant APIs using this MuleSoft Connector.
+**Interact with Grants.gov Applicant APIs using this System API built for MuleSoft.**
 
-Accelerator Listing: [insert url to the public listing on the Accelerator site](https://pubsec-accelerators.my.site.com/accelerators/) (tbd once published)
+Accelerator Site Listing: [Grants.gov Integration](https://pubsec-accelerators.my.site.com/accelerators/accelerator/a0wDo0000022HZmIAM/grantsgov-integration)
 
 
 ## Description
@@ -26,7 +26,7 @@ This is where MuleSoft comes into the picture.  MuleSoft Anypoint Platform comes
 
 This Accelerator includes the following assets:
 <ol>
- <li><strong>APIs</strong>, including:
+ <li><strong>Example API</strong>, including:
   <ul>
    <li>API specifications in RAML and OAS (see the /mulesoft/specifications/ directory)</li>
    <li>Fully functional example MuleSoft System API for Grants.gov (see the /mulesoft/implementation/ directory)</li>
@@ -47,11 +47,11 @@ This Accelerator includes the following assets:
 
 **License Requirements**
 * This solution was developed and tested on Anypoint Studio v7.15 and Mule Runtime v4.4.0; you should be running these or higher versions.
-* ANY OTHER SALESFORCE LICENSE REQUIREMENT? (example: Requires Public Sector Solutions)
 
-**Other Assumptions**
-* WHAT VERSION OF THE GRANTS.GOV API DOES THIS COMPLY WITH?
+**Other Notes & Assumptions**
+* This Accelerator was developed and tested with [Grants.gov's Applicant WSDL v2.0](https://training.grants.gov/system-to-system/applicant-system-to-system/versions-wsdls).
 * You are using this Accelerator in a sandbox or test environment. It is recommended that you not install any Accelerator directly into production environments without proper testing.
+* If you have not purchased MuleSoft, you may [try it for free](https://www.mulesoft.com/lp/dl/anypoint-mule-studio).
 
 
 ## Installation
