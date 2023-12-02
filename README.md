@@ -106,7 +106,7 @@ Creator:  **[Afzal Memon](https://github.com/az-mulesoft)**, Distinguished Solut
 
 ## Terms of Use
 
-Thank you for using Public Sector Accelerators.  Accelerators are provided by Salesforce.com, Inc., located at 1 Market Street, San Francisco, CA 94105, United States.
+Thank you for using Global Public Sector Accelerators.  Accelerators are provided by Salesforce.com, Inc., located at 1 Market Street, San Francisco, CA 94105, United States.
 
 By using this site and these accelerators, you are agreeing to these terms. Please read them carefully.
 
