@@ -56,7 +56,7 @@ This Accelerator includes the following assets:
 
 ## Installation
 
-Please refer to the white paper (see /docs/ directory) for detailed installation instructions.
+Please refer to the [white paper](docs/WhitePaper_GrantsManagementModernizationUsingSalesforceAndMuleSoft_v01.pdf) for detailed installation instructions.
 
 To import the example application into MuleSoft AnyPoint Studio:
 1) Download the grants-applicant_webservices_system_api-v3.jar file (see the /mulesoft/implementation/ directory).
@@ -68,7 +68,7 @@ To import the example application into MuleSoft AnyPoint Studio:
 
 ## Post-Install Setup & Configuration
 
-Please refer to the white paper (see /docs/ directory) for detailed configuration instructions and documentation.
+Please refer to the [white paper](docs/WhitePaper_GrantsManagementModernizationUsingSalesforceAndMuleSoft_v01.pdf) for detailed configuration instructions and documentation.
 
 To run a template after you import it into AnyPoint Studio, follow these configuration steps:
 1) Right-click the project folder.
@@ -91,6 +91,7 @@ A: For all Grants.gov questions, troubleshooting, and support, you must contact 
 
 * [Secure Configuration Properties](https://docs.mulesoft.com/mule-runtime/4.4/secure-configuration-properties)
 * [Configure TLS with Keystores and Truststores](https://docs.mulesoft.com/mule-runtime/4.4/tls-configuration)
+* [Grants.gov Applicant S2S Documentation](https://www.grants.gov/system-to-system/applicant-system-to-system/)
 
 
 ## Revision History
