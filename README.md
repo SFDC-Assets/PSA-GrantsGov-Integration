@@ -4,7 +4,7 @@
 
 **Interact with Grants.gov Applicant APIs using this System API built for MuleSoft.**
 
-Accelerator Site Listing: [Grants.gov Integration](https://pubsec-accelerators.my.site.com/accelerators/accelerator/a0wDo0000022HZmIAM/grantsgov-integration)
+Accelerator Site Listing: [Grants.gov Integration](https://gpsaccelerators.developer.salesforce.com/accelerator/a0wDo0000022HZmIAM/grantsgov-integration)
 
 
 ## Description
