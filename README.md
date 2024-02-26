@@ -112,4 +112,4 @@ By using this site and these accelerators, you are agreeing to these terms. Plea
 
 Accelerators are not supported by Salesforce, they are supplied as-is, and are meant to be a starting point for your organization. Salesforce is not liable for the use of accelerators.
 
-For more about the Accelerator program, visit: [https://gpsaccelerators.developer.salesforce.com/)
+For more about the Accelerator program, visit: [https://gpsaccelerators.developer.salesforce.com/](https://gpsaccelerators.developer.salesforce.com/)
